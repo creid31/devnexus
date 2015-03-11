@@ -1,2 +1,2 @@
-# devnexus2015
+# devnexus
 DevNexus workshop/sessions files and notes
